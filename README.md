@@ -1,16 +1,5 @@
 # pulsar-functions
 
-
-Pulsar Functions
-
-
-Owned by Sai Teja Enugula
-
-Last updated: about 14 hours ago
-8 min read
-
-7 people viewed
-0 Associations0 AssociationsMentionsMentions
 Pulsar Functions are lightweight computational processes that consume messages from one or more topics, apply a user-supplied function, and then publish the result to one or more topics.
 
 Users can develop simple self-contained pieces of code and then deploy them, and Pulsar takes care of the underlying details required to run and scale your code with high availability, including the Pulsar consumer and producers for these input and output topics 
